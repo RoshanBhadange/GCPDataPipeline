@@ -1,16 +1,16 @@
-#GCPDataPipeline
+# GCPDataPipeline
 
-Source files ingestion into GCS
+1. Source files ingestion into GCS
 
-ETL using DataProc
+2. ETL using DataProc
 
 Spark job to load data into hive tables, python
 
-Creating DW in google bigquery
+3. Creating DW in google bigquery
 
 Dim and fact tables 
 
-Job Scheduling using Airflow 
+4. Job Scheduling using Airflow 
 
 Job schedule,monitoring and workflows
 
